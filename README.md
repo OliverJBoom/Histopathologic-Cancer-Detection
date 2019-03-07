@@ -3,4 +3,4 @@ An convolutional neural network that detects metastatic cancer in small image pa
 
 Trained and tesed on images from the PatchCamelyon dataset. 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/OliverJBoom/Histopathologic-Cancer-Detection/blob/master/histopathic.jpg)
