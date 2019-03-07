@@ -1,6 +1,4 @@
 # Histopathologic-Cancer-Detection
-An convolutional neural network that detects metastatic cancer in small image patches taken from larger digital pathology scans
+An convolutional neural network that detects metastatic cancer in small image patches taken from larger digital pathology scans. These scans are stained lyphy nodes taken from biopsies, and are a common location for early stage breast cancer malignant cells to begin proliferation.
 
-An entry for this kaggle competition https://www.kaggle.com/c/histopathologic-cancer-detection
-
-Full datasets can be found on kaggle
+Trained and tesed on images from the PatchCamelyon dataset. 
