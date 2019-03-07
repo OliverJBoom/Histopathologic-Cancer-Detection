@@ -3,4 +3,6 @@ An convolutional neural network that detects metastatic cancer in small image pa
 
 Trained and tesed on images from the PatchCamelyon dataset. 
 
+ResNet50 is based on a deep residual framework. This has its origin in the squeeze excitation approach to cnn's described in this paper https://arxiv.org/pdf/1709.01507.pdf
+
 ![alt text](https://github.com/OliverJBoom/Histopathologic-Cancer-Detection/blob/master/histopathic.jpg)
